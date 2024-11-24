@@ -1,0 +1,36 @@
+nome-servidor: "&bBusko&6PvP"
+
+#%player% mostra o nome do jogador
+mensagem-ao-entrar:
+  - " "
+  - "    &7Olá, &6&l%player%!     "
+  - " "
+  - "    &bAproveite seu jogo :)     "
+  - " "
+
+mensagens-aviso:
+  - "&7Temos vagas para a &4&lSTAFF&7! Use &b/aplicar"
+  - "&7Para obter tag YT veja os requisitos em &b/yt"
+
+#em segundos
+tempo-entre-avisos: 60
+
+motd-linha1: "    &bBusko&6PvP    "
+motd-linha2: "    &6&lO melhor servidor de &bKitPvP    "
+site: "https://google.com.br"
+
+#%server% mostra o nome do servidor
+#%count% mostra a qtd. de jogadores
+#%ping% mostra o ping do jogador
+#%site% mostra o site do servidor
+tab-cabecalho-linha1: "%server%"
+tab-cabecalho-linha2: "&fO melhor servidor do &6MUNDO!"
+tab-rodape-linha1: "&b%ping% &7ms | &6&l%count% &7online"
+tab-rodape-linha2: "&7Acesse nosso site &b&l%site%"
+
+mensagem-na-lista:
+  - "&cBUSKOPVP"
+  - " "
+  - "&7O melhor servidor do &6MUNDO"
+  - " "
+  - "&b&lsite.com.br"

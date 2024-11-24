@@ -1,0 +1,14 @@
+name: KitPvP
+version: '1.0-SNAPSHOT'
+main: dev.buskopan.kitPvP.Main
+api-version: '1.21'
+prefix: [ BuskoPvP ]
+load: STARTUP
+authors: [ buskopan ]
+description: KitPvP plugin made by Buskopan
+website: buskopan.live
+commands:
+  ping:
+    description: "Mostra o ping"
+  setargrupo:
+    description: "Altera a tag do jogador"
